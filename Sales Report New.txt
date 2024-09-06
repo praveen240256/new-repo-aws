@@ -1,0 +1,7 @@
+-----------
+Company Sales Quarter Report(Q4-2023):
+-----------
+Month       Sales
+Oct         $67000
+Nov         $21000
+Dec         $78000
